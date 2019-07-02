@@ -1,0 +1,181 @@
+/*--------------------------
+Author: Jenn Pereira
+Author Website: PereiraDigitalMedia.com
+Theme: Ophiuchus - Mobile Apps Landing Page
+This is the CSS for Mobile Responsiveness of Ophiuchus Theme
+--------------------------*/
+
+
+
+/* Responsiveness----------------------------------------------------------------------------- */
+
+/*屏幕缩小到760px以下时*/
+@media screen and (max-width: 760px) {
+  
+#inner-header {
+    width: 100%;
+}
+
+.site-branding{
+  left: 10px;
+}
+
+#menuSwitchWrap{
+  /*display: inline-block;*/
+}
+
+#navMenuWrap{
+  float: none;
+  margin-top: 80px;
+  padding: 0 20px;
+  display: none;
+}
+
+#inner-header nav{
+
+  .nav{
+    float: none;
+    display: block;
+    text-align: center;
+    padding: 0 0 0 0;
+
+    li{
+      display: block;
+      float: none;
+      border-top: dotted 1px #c8c2b9;
+
+      a {
+      border-right: 0 none;
+      display:block;
+      font-size: 16px;
+      overflow: hidden;
+      padding: 16px 20px;
+      }
+
+    }
+
+  }
+
+}
+
+#sectionBrandWrap {
+    padding: 100px 0 80px;
+    width: 90%;
+}
+
+#sectionBrandWrap img{
+    width: 100%;
+}
+
+#sectionBrandIntro {
+    width: auto;
+}
+
+
+
+#sectionRadioWrap {
+    padding: 100px 0px;
+    width: 90%;
+    text-align: center;
+}
+
+#sectionRadio_pic {
+    float: none;
+    margin: 0 auto;
+}
+
+#sectionRadio_info {
+    float: none;
+    margin: 40px 0 0 0;
+    width: 90%;
+    text-align: center;
+}
+
+#sectionRadio_info .slogan{
+    text-align: center;
+}
+
+
+
+
+#sectionBlogWrap {
+    padding: 100px 0px;
+    width: 90%;
+    text-align: center;
+}
+
+#sectionBlog_pic {
+    float: none;
+    margin: 0 auto;
+}
+
+#sectionBlog_info {
+    float: none;
+    margin: 0px 0 0 0;
+    width: 90%;
+    text-align: center;
+}
+
+#sectionBlog_info .slogan{
+    text-align: center;
+}
+
+
+
+
+#sectionContactWrap {
+    margin: 0 auto;
+    padding: 100px 0;
+    text-align: center;
+    width: 100%;
+}
+
+
+#coleIntro {
+    background: url("../img/member_cole.png") no-repeat left center rgba(0, 0, 0, 0);
+    float: none;
+    width: 200px;
+    margin: 0 auto 80px;
+    padding: 0 0 0 200px;
+}
+
+
+#treeIntro {
+    background: url("../img/member_tree.png") no-repeat left center rgba(0, 0, 0, 0);
+    float: none;
+    width: 200px;
+    margin: 0 auto;
+    padding: 0 0 0 200px;
+}
+
+#treeIntro .text {
+    text-align: left;
+}
+
+
+#testimonials .quote {
+    width: 100%;
+}
+
+#counter {
+    width: 100%;
+}
+
+.counterWrap .item {
+    width: 33%;
+}
+
+footer .copyRight {
+    width: 100%;
+}
+
+
+  
+}
+
+
+/* iphone */
+@media only screen and (max-width:480px) {
+  
+  
+}
