@@ -9,13 +9,13 @@ description: 以文字和声音记录生活，以淡泊和安然诗意栖居
 keywords: 简单生活、电台
 author: coletree
 language: zh-cn
-timezone:
+timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://coletree.com/weblog/
 root: /weblog/
-permalink: :year/:month/:day/:title/
+permalink: :year/:title/
 permalink_defaults:
 
 # Directory
