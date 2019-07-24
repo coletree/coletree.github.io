@@ -1,0 +1,14 @@
+---
+title: " 欢乐的翻译器\t\t"
+tags:
+  - 开心
+  - 欢乐
+  - 生活
+url: 538.html
+id: 538
+categories:
+  - 森林广播
+date: 2012-07-08 21:18:55
+---
+
+绳命，是剁么的回晃；绳命，是入刺的井猜。感谢大师，感谢翻译器，感谢你在井猜的生命中抽出珍贵的时间收听电台。大师们会说：这就是缘分。   \[embed\]http://www.coletree.com/radio/coletree\_radio\_041.mp3\[/embed\]
