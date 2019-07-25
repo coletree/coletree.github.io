@@ -78,4 +78,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/coletree/coletree.github.io/weblog #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  branch: [master] #published

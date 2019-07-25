@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/weblog/2019/hello-world/"/>
-      <url>/weblog/2019/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title> 感动成人的儿歌		</title>
       <link href="/weblog/2015/%E6%84%9F%E5%8A%A8%E6%88%90%E4%BA%BA%E7%9A%84%E5%84%BF%E6%AD%8C/"/>
       <url>/weblog/2015/%E6%84%9F%E5%8A%A8%E6%88%90%E4%BA%BA%E7%9A%84%E5%84%BF%E6%AD%8C/</url>
@@ -62,11 +49,11 @@
       
         <tags>
             
-            <tag> 人生 </tag>
+            <tag> 生活 </tag>
             
             <tag> 闲聊 </tag>
             
-            <tag> 生活 </tag>
+            <tag> 人生 </tag>
             
             <tag> 随想 </tag>
             
@@ -246,9 +233,9 @@
       
         <tags>
             
-            <tag> 安静 </tag>
-            
             <tag> 闲聊 </tag>
+            
+            <tag> 安静 </tag>
             
             <tag> 随想 </tag>
             
@@ -277,11 +264,11 @@
       
         <tags>
             
-            <tag> 人生 </tag>
+            <tag> 生活 </tag>
             
             <tag> 新年 </tag>
             
-            <tag> 生活 </tag>
+            <tag> 人生 </tag>
             
             <tag> 随想 </tag>
             
@@ -590,9 +577,9 @@
       
         <tags>
             
-            <tag> 人生 </tag>
-            
             <tag> 生活 </tag>
+            
+            <tag> 人生 </tag>
             
             <tag> 电影 </tag>
             
@@ -1519,9 +1506,9 @@
       
         <tags>
             
-            <tag> 闲聊 </tag>
-            
             <tag> 生活 </tag>
+            
+            <tag> 闲聊 </tag>
             
             <tag> 纪念 </tag>
             
@@ -1645,9 +1632,9 @@
       
         <tags>
             
-            <tag> 闲聊 </tag>
-            
             <tag> 生活 </tag>
+            
+            <tag> 闲聊 </tag>
             
         </tags>
       
@@ -2055,9 +2042,9 @@
       
         <tags>
             
-            <tag> 闲聊 </tag>
-            
             <tag> 生活 </tag>
+            
+            <tag> 闲聊 </tag>
             
             <tag> 回忆 </tag>
             
@@ -2115,13 +2102,13 @@
       
         <tags>
             
+            <tag> 闲聊 </tag>
+            
             <tag> 回家 </tag>
             
             <tag> 新年 </tag>
             
             <tag> 春节 </tag>
-            
-            <tag> 闲聊 </tag>
             
         </tags>
       
@@ -2175,9 +2162,9 @@
       
         <tags>
             
-            <tag> 人生 </tag>
-            
             <tag> 怀旧 </tag>
+            
+            <tag> 人生 </tag>
             
             <tag> 生日 </tag>
             
@@ -2206,9 +2193,9 @@
       
         <tags>
             
-            <tag> 现场 </tag>
-            
             <tag> 闲聊 </tag>
+            
+            <tag> 现场 </tag>
             
             <tag> 选秀 </tag>
             
@@ -2423,9 +2410,9 @@
       
         <tags>
             
-            <tag> 闲聊 </tag>
-            
             <tag> 怀旧 </tag>
+            
+            <tag> 闲聊 </tag>
             
             <tag> 回忆 </tag>
             
@@ -2516,11 +2503,11 @@
       
         <tags>
             
-            <tag> 闲聊 </tag>
-            
             <tag> 怀旧 </tag>
             
             <tag> 生活 </tag>
+            
+            <tag> 闲聊 </tag>
             
         </tags>
       
@@ -2603,9 +2590,9 @@
       
         <tags>
             
-            <tag> 闲聊 </tag>
-            
             <tag> 怀旧 </tag>
+            
+            <tag> 闲聊 </tag>
             
             <tag> 粤语 </tag>
             
@@ -2634,9 +2621,9 @@
       
         <tags>
             
-            <tag> 闲聊 </tag>
-            
             <tag> 生活 </tag>
+            
+            <tag> 闲聊 </tag>
             
             <tag> 地震 </tag>
             
@@ -2665,9 +2652,9 @@
       
         <tags>
             
-            <tag> 闲聊 </tag>
-            
             <tag> 生活 </tag>
+            
+            <tag> 闲聊 </tag>
             
         </tags>
       
@@ -2721,15 +2708,15 @@
       
         <tags>
             
+            <tag> 怀旧 </tag>
+            
+            <tag> 闲聊 </tag>
+            
             <tag> 回家 </tag>
             
             <tag> 新年 </tag>
             
             <tag> 春节 </tag>
-            
-            <tag> 闲聊 </tag>
-            
-            <tag> 怀旧 </tag>
             
             <tag> 故乡 </tag>
             
@@ -2847,9 +2834,9 @@
       
         <tags>
             
-            <tag> 闲聊 </tag>
-            
             <tag> 生活 </tag>
+            
+            <tag> 闲聊 </tag>
             
             <tag> 环保 </tag>
             
@@ -2905,11 +2892,11 @@
       
         <tags>
             
-            <tag> 新年 </tag>
+            <tag> 生活 </tag>
             
             <tag> 闲聊 </tag>
             
-            <tag> 生活 </tag>
+            <tag> 新年 </tag>
             
             <tag> 北京 </tag>
             

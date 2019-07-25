@@ -6,7 +6,7 @@
   <link href="/weblog/atom.xml" rel="self"/>
   
   <link href="https://coletree.com/weblog/"/>
-  <updated>2019-07-23T06:17:14.003Z</updated>
+  <updated>2019-07-24T05:56:23.388Z</updated>
   <id>https://coletree.com/weblog/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://coletree.com/weblog/2019/hello-world/"/>
-    <id>https://coletree.com/weblog/2019/hello-world/</id>
-    <published>2019-07-23T06:17:14.003Z</published>
-    <updated>2019-07-23T06:17:14.003Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title> 感动成人的儿歌		</title>
@@ -87,11 +66,11 @@
       <category term="森林广播" scheme="https://coletree.com/weblog/categories/%E6%A3%AE%E6%9E%97%E5%B9%BF%E6%92%AD/"/>
     
     
-      <category term="人生" scheme="https://coletree.com/weblog/tags/%E4%BA%BA%E7%94%9F/"/>
+      <category term="生活" scheme="https://coletree.com/weblog/tags/%E7%94%9F%E6%B4%BB/"/>
     
       <category term="闲聊" scheme="https://coletree.com/weblog/tags/%E9%97%B2%E8%81%8A/"/>
     
-      <category term="生活" scheme="https://coletree.com/weblog/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="人生" scheme="https://coletree.com/weblog/tags/%E4%BA%BA%E7%94%9F/"/>
     
       <category term="随想" scheme="https://coletree.com/weblog/tags/%E9%9A%8F%E6%83%B3/"/>
     
@@ -271,9 +250,9 @@
       <category term="森林广播" scheme="https://coletree.com/weblog/categories/%E6%A3%AE%E6%9E%97%E5%B9%BF%E6%92%AD/"/>
     
     
-      <category term="安静" scheme="https://coletree.com/weblog/tags/%E5%AE%89%E9%9D%99/"/>
-    
       <category term="闲聊" scheme="https://coletree.com/weblog/tags/%E9%97%B2%E8%81%8A/"/>
+    
+      <category term="安静" scheme="https://coletree.com/weblog/tags/%E5%AE%89%E9%9D%99/"/>
     
       <category term="随想" scheme="https://coletree.com/weblog/tags/%E9%9A%8F%E6%83%B3/"/>
     
@@ -302,11 +281,11 @@
       <category term="森林广播" scheme="https://coletree.com/weblog/categories/%E6%A3%AE%E6%9E%97%E5%B9%BF%E6%92%AD/"/>
     
     
-      <category term="人生" scheme="https://coletree.com/weblog/tags/%E4%BA%BA%E7%94%9F/"/>
+      <category term="生活" scheme="https://coletree.com/weblog/tags/%E7%94%9F%E6%B4%BB/"/>
     
       <category term="新年" scheme="https://coletree.com/weblog/tags/%E6%96%B0%E5%B9%B4/"/>
     
-      <category term="生活" scheme="https://coletree.com/weblog/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="人生" scheme="https://coletree.com/weblog/tags/%E4%BA%BA%E7%94%9F/"/>
     
       <category term="随想" scheme="https://coletree.com/weblog/tags/%E9%9A%8F%E6%83%B3/"/>
     
@@ -591,6 +570,35 @@
       <category term="电影" scheme="https://coletree.com/weblog/tags/%E7%94%B5%E5%BD%B1/"/>
     
       <category term="爱情" scheme="https://coletree.com/weblog/tags/%E7%88%B1%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title> 五部电影，五个女人，五段人生		</title>
+    <link href="https://coletree.com/weblog/2014/%E4%BA%94%E9%83%A8%E7%94%B5%E5%BD%B1%EF%BC%8C%E4%BA%94%E4%B8%AA%E5%A5%B3%E4%BA%BA%EF%BC%8C%E4%BA%94%E6%AE%B5%E4%BA%BA%E7%94%9F/"/>
+    <id>https://coletree.com/weblog/2014/五部电影，五个女人，五段人生/</id>
+    <published>2014-07-20T21:23:41.000Z</published>
+    <updated>2019-07-24T05:26:22.127Z</updated>
+    
+    <content type="html"><![CDATA[<p>《爱在午夜降临前》那个我们熟悉的文艺女青年如今已经变成身体微微发福的文艺女中年；《川岛芳子》里一直在和身份抗争，最终仍逃不出身份困境的十四格格；在最美的时刻香消玉殒的《阮玲玉》；《万箭穿心》里没文化却倔强坚强的世俗女子；还有《新不了情》里身患绝症却仍然乐观开朗感动了无数人的阿敏。五部电影，五个女人，五段人生。如果人生最坏只是死亡，生活中怎会有面对不了的困难。   [embed]<a href="http://www.coletree.com/radio/coletree\_radio\_082.mp3\[/embed\]" target="_blank" rel="noopener">http://www.coletree.com/radio/coletree\_radio\_082.mp3\[/embed\]</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;《爱在午夜降临前》那个我们熟悉的文艺女青年如今已经变成身体微微发福的文艺女中年；《川岛芳子》里一直在和身份抗争，最终仍逃不出身份困境的十四格格；在最美的时刻香消玉殒的《阮玲玉》；《万箭穿心》里没文化却倔强坚强的世俗女子；还有《新不了情》里身患绝症却仍然乐观开朗感动了无数人的
+      
+    
+    </summary>
+    
+      <category term="森林广播" scheme="https://coletree.com/weblog/categories/%E6%A3%AE%E6%9E%97%E5%B9%BF%E6%92%AD/"/>
+    
+    
+      <category term="生活" scheme="https://coletree.com/weblog/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="人生" scheme="https://coletree.com/weblog/tags/%E4%BA%BA%E7%94%9F/"/>
+    
+      <category term="电影" scheme="https://coletree.com/weblog/tags/%E7%94%B5%E5%BD%B1/"/>
     
   </entry>
   
