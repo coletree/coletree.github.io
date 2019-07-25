@@ -8,11 +8,6 @@
     </sitemap>
 
     <sitemap>
-        <loc>https://coletree.com/weblog/page-sitemap.xml</loc>
-        <lastmod>2019-07-25T01:27:39.367Z</lastmod>
-    </sitemap>
-
-    <sitemap>
         <loc>https://coletree.com/weblog/category-sitemap.xml</loc>
         <lastmod>2019-07-25T03:31:25.112Z</lastmod>
     </sitemap>
