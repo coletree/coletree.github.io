@@ -10,8 +10,8 @@ tags:
 
 北京星光天地5层，有一群小破孩的画展出。
 
-\[caption id="" align="alignnone" width="540"\]![20070722-01](../../images//2008/04/20070722-01.jpg) 天气热，大家吃西瓜降降温。\[/caption\]
+\[caption id="" align="alignnone" width="540"\]![20070722-01](../../../images/2008/04/20070722-01.jpg) 天气热，大家吃西瓜降降温。\[/caption\]
 
-\[caption id="" align="alignnone" width="540"\]![w4ztf5xh](../../images//2008/04/w4ztf5xh.jpg) 把国旗做成拉链，还挺有想法。\[/caption\]
+\[caption id="" align="alignnone" width="540"\]![w4ztf5xh](../../../images/2008/04/w4ztf5xh.jpg) 把国旗做成拉链，还挺有想法。\[/caption\]
 
-\[caption id="" align="alignnone" width="540"\]![zajanck6](../../images//2008/04/zajanck6.jpg) 画得还挺繁琐，小破孩挺耐得住。\[/caption\] \[caption id="" align="alignnone" width="540"\]![38l87r0e](../../images//2008/04/38l87r0e.jpg) 冷幽默一枚\[/caption\]
+\[caption id="" align="alignnone" width="540"\]![zajanck6](../../../images/2008/04/zajanck6.jpg) 画得还挺繁琐，小破孩挺耐得住。\[/caption\] \[caption id="" align="alignnone" width="540"\]![38l87r0e](../../../images/2008/04/38l87r0e.jpg) 冷幽默一枚\[/caption\]

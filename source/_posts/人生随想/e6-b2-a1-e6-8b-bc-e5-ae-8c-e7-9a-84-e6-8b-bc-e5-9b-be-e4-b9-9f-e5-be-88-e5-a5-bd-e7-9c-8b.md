@@ -8,4 +8,4 @@ date: 2013-01-09 10:50:22
 tags:
 ---
 
-六人五小时，七手加八脚，事成之后累坏一条老腰。 ![puzzle_1](../../images//2013/01/puzzle_1.jpg) ![puzzle_2](../../images//2013/01/puzzle_2.jpg) ![puzzle_3](../../images//2013/01/puzzle_3.jpg) ![puzzle_4](../../images//2013/01/puzzle_4.jpg) ![puzzle_5](../../images//2013/01/puzzle_5.jpg) ![puzzle_6](../../images//2013/01/puzzle_6.jpg)
+六人五小时，七手加八脚，事成之后累坏一条老腰。 ![puzzle_1](../../../images/2013/01/puzzle_1.jpg) ![puzzle_2](../../../images/2013/01/puzzle_2.jpg) ![puzzle_3](../../../images/2013/01/puzzle_3.jpg) ![puzzle_4](../../../images/2013/01/puzzle_4.jpg) ![puzzle_5](../../../images/2013/01/puzzle_5.jpg) ![puzzle_6](../../../images/2013/01/puzzle_6.jpg)
