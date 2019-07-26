@@ -1,0 +1,11 @@
+---
+title: " 终于盼来了P6000\t\t"
+url: 380.html
+id: 380
+categories:
+  - 思考随笔
+date: 2008-12-08 23:19:35
+tags:
+---
+
+等了几个月，终于盼来了我的尼康P6000，虽然比当初预想的价格高了几百，还是忍痛第一时间买下了。样图如下，更多照片请移步[我的flickr](http://www.flickr.com/photos/coledodo). ![](../../images//2008/12/soho.jpg) ![](../../images//2008/12/.jpg)

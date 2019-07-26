@@ -4,17 +4,22 @@
 
     <sitemap>
         <loc>https://coletree.com/weblog/post-sitemap.xml</loc>
-        <lastmod>2019-07-25T03:31:25.112Z</lastmod>
+        <lastmod>2019-07-26T06:41:49.245Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://coletree.com/weblog/page-sitemap.xml</loc>
+        <lastmod>2019-07-26T04:35:06.372Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://coletree.com/weblog/category-sitemap.xml</loc>
-        <lastmod>2019-07-25T03:31:25.112Z</lastmod>
+        <lastmod>2019-07-26T06:41:49.245Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://coletree.com/weblog/tag-sitemap.xml</loc>
-        <lastmod>2019-07-24T06:05:09.467Z</lastmod>
+        <lastmod>2019-07-26T06:41:49.166Z</lastmod>
     </sitemap>
 
 </sitemapindex>
