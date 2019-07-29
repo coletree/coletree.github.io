@@ -95,7 +95,7 @@
 </script>
 
   <meta name="description" content="日本大地震，和所有的灾难一样，促使我们重新审视自己的内心。当末日论泛滥的时候，选择以一种什么样的方式看待它可能才是最重要的。生命转瞬即逝，好好把握，做自己真正想做的。   [embed]http://www.coletree.com/radio/coletree\_radio\_014.mp3\[/embed\]">
-<meta name="keywords" content="生活,闲聊,地震,灾难">
+<meta name="keywords" content="地震,生活,闲聊,灾难">
 <meta property="og:type" content="article">
 <meta property="og:title" content=" 日本大地震		">
 <meta property="og:url" content="https://coletree.com/weblog/2011/森林广播/第014期：日本大地震/index.html">
@@ -480,11 +480,11 @@
         
         <div class="post-tags">
           
+            <a href="/weblog/tags/地震/" rel="tag"># 地震</a>
+          
             <a href="/weblog/tags/生活/" rel="tag"># 生活</a>
           
             <a href="/weblog/tags/闲聊/" rel="tag"># 闲聊</a>
-          
-            <a href="/weblog/tags/地震/" rel="tag"># 地震</a>
           
             <a href="/weblog/tags/灾难/" rel="tag"># 灾难</a>
           
@@ -532,6 +532,13 @@
 
           </div>
           
+
+  
+    <div class="comments" id="comments">
+      <div id="disqus_thread">
+        <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+      </div>
+    </div>
 
   
 
@@ -1069,6 +1076,45 @@
 
 
 
+
+
+
+  
+
+<script>
+  var disqus_config = function() {
+    this.page.url = "https://coletree.com/weblog/2011/森林广播/第014期：日本大地震/";
+    this.page.identifier = "2011/森林广播/第014期：日本大地震/";
+    this.page.title = ' 日本大地震		';
+    };
+  function loadComments() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://coletree.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', '' + +new Date());
+    (d.head || d.body).appendChild(s);
+  }
+  
+    $(function() {
+      var offsetTop = $('#comments').offset().top - $(window).height();
+      if (offsetTop <= 0) {
+        // load directly when there's no a scrollbar
+        window.addEventListener('load', loadComments, false);
+      } else {
+        $(window).on('scroll.disqus_scroll', function() {
+          // offsetTop may changes because of manually resizing browser window or lazy loading images.
+          var offsetTop = $('#comments').offset().top - $(window).height();
+          var scrollTop = $(window).scrollTop();
+
+          // pre-load comments a bit? (margin or anything else)
+          if (offsetTop - scrollTop < 60) {
+            $(window).off('.disqus_scroll');
+            loadComments();
+          }
+        });
+      }
+    });
+  
+</script>
 
 
 

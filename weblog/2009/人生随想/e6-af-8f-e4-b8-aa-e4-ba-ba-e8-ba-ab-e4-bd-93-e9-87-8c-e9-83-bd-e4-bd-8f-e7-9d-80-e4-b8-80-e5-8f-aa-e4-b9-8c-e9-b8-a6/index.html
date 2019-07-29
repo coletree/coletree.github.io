@@ -524,6 +524,13 @@
           
 
   
+    <div class="comments" id="comments">
+      <div id="disqus_thread">
+        <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+      </div>
+    </div>
+
+  
 
 
 
@@ -1059,6 +1066,45 @@
 
 
 
+
+
+
+  
+
+<script>
+  var disqus_config = function() {
+    this.page.url = "https://coletree.com/weblog/2009/人生随想/e6-af-8f-e4-b8-aa-e4-ba-ba-e8-ba-ab-e4-bd-93-e9-87-8c-e9-83-bd-e4-bd-8f-e7-9d-80-e4-b8-80-e5-8f-aa-e4-b9-8c-e9-b8-a6/";
+    this.page.identifier = "2009/人生随想/e6-af-8f-e4-b8-aa-e4-ba-ba-e8-ba-ab-e4-bd-93-e9-87-8c-e9-83-bd-e4-bd-8f-e7-9d-80-e4-b8-80-e5-8f-aa-e4-b9-8c-e9-b8-a6/";
+    this.page.title = ' 每个人身体里都住着一只乌鸦		';
+    };
+  function loadComments() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://coletree.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', '' + +new Date());
+    (d.head || d.body).appendChild(s);
+  }
+  
+    $(function() {
+      var offsetTop = $('#comments').offset().top - $(window).height();
+      if (offsetTop <= 0) {
+        // load directly when there's no a scrollbar
+        window.addEventListener('load', loadComments, false);
+      } else {
+        $(window).on('scroll.disqus_scroll', function() {
+          // offsetTop may changes because of manually resizing browser window or lazy loading images.
+          var offsetTop = $('#comments').offset().top - $(window).height();
+          var scrollTop = $(window).scrollTop();
+
+          // pre-load comments a bit? (margin or anything else)
+          if (offsetTop - scrollTop < 60) {
+            $(window).off('.disqus_scroll');
+            loadComments();
+          }
+        });
+      }
+    });
+  
+</script>
 
 
 

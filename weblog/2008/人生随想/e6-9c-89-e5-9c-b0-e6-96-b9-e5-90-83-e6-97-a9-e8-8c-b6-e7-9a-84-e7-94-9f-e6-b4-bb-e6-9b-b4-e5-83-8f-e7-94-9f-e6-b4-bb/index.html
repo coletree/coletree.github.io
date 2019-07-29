@@ -522,6 +522,13 @@
           
 
   
+    <div class="comments" id="comments">
+      <div id="disqus_thread">
+        <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+      </div>
+    </div>
+
+  
 
 
 
@@ -1057,6 +1064,45 @@
 
 
 
+
+
+
+  
+
+<script>
+  var disqus_config = function() {
+    this.page.url = "https://coletree.com/weblog/2008/人生随想/e6-9c-89-e5-9c-b0-e6-96-b9-e5-90-83-e6-97-a9-e8-8c-b6-e7-9a-84-e7-94-9f-e6-b4-bb-e6-9b-b4-e5-83-8f-e7-94-9f-e6-b4-bb/";
+    this.page.identifier = "2008/人生随想/e6-9c-89-e5-9c-b0-e6-96-b9-e5-90-83-e6-97-a9-e8-8c-b6-e7-9a-84-e7-94-9f-e6-b4-bb-e6-9b-b4-e5-83-8f-e7-94-9f-e6-b4-bb/";
+    this.page.title = ' 有地方吃早餐的生活更像生活		';
+    };
+  function loadComments() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://coletree.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', '' + +new Date());
+    (d.head || d.body).appendChild(s);
+  }
+  
+    $(function() {
+      var offsetTop = $('#comments').offset().top - $(window).height();
+      if (offsetTop <= 0) {
+        // load directly when there's no a scrollbar
+        window.addEventListener('load', loadComments, false);
+      } else {
+        $(window).on('scroll.disqus_scroll', function() {
+          // offsetTop may changes because of manually resizing browser window or lazy loading images.
+          var offsetTop = $('#comments').offset().top - $(window).height();
+          var scrollTop = $(window).scrollTop();
+
+          // pre-load comments a bit? (margin or anything else)
+          if (offsetTop - scrollTop < 60) {
+            $(window).off('.disqus_scroll');
+            loadComments();
+          }
+        });
+      }
+    });
+  
+</script>
 
 
 

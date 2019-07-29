@@ -533,6 +533,13 @@
           
 
   
+    <div class="comments" id="comments">
+      <div id="disqus_thread">
+        <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+      </div>
+    </div>
+
+  
 
 
 
@@ -1068,6 +1075,45 @@
 
 
 
+
+
+
+  
+
+<script>
+  var disqus_config = function() {
+    this.page.url = "https://coletree.com/weblog/2013/人生随想/e8-b7-9f-e7-9d-80-e3-80-8a-e6-96-87-e9-9b-80-e3-80-8b-e9-80-9b-e9-a6-99-e6-b8-af-ef-bc-88-e4-ba-8c-ef-bc-89/";
+    this.page.identifier = "2013/人生随想/e8-b7-9f-e7-9d-80-e3-80-8a-e6-96-87-e9-9b-80-e3-80-8b-e9-80-9b-e9-a6-99-e6-b8-af-ef-bc-88-e4-ba-8c-ef-bc-89/";
+    this.page.title = ' 跟着《文雀》逛香港（二）		';
+    };
+  function loadComments() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://coletree.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', '' + +new Date());
+    (d.head || d.body).appendChild(s);
+  }
+  
+    $(function() {
+      var offsetTop = $('#comments').offset().top - $(window).height();
+      if (offsetTop <= 0) {
+        // load directly when there's no a scrollbar
+        window.addEventListener('load', loadComments, false);
+      } else {
+        $(window).on('scroll.disqus_scroll', function() {
+          // offsetTop may changes because of manually resizing browser window or lazy loading images.
+          var offsetTop = $('#comments').offset().top - $(window).height();
+          var scrollTop = $(window).scrollTop();
+
+          // pre-load comments a bit? (margin or anything else)
+          if (offsetTop - scrollTop < 60) {
+            $(window).off('.disqus_scroll');
+            loadComments();
+          }
+        });
+      }
+    });
+  
+</script>
 
 
 

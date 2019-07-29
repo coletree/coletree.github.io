@@ -599,10 +599,10 @@ reading_progress:
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
-  count: true
-  lazyload: false
+  enable: true
+  shortname: coletree
+  count: false
+  lazyload: true
 
 # DisqusJS
 # Alternative Disqus - Render comment component using Disqus API.

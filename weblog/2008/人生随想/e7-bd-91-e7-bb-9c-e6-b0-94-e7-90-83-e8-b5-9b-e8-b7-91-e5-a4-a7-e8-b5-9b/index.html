@@ -522,6 +522,13 @@
           
 
   
+    <div class="comments" id="comments">
+      <div id="disqus_thread">
+        <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+      </div>
+    </div>
+
+  
 
 
 
@@ -1057,6 +1064,45 @@
 
 
 
+
+
+
+  
+
+<script>
+  var disqus_config = function() {
+    this.page.url = "https://coletree.com/weblog/2008/人生随想/e7-bd-91-e7-bb-9c-e6-b0-94-e7-90-83-e8-b5-9b-e8-b7-91-e5-a4-a7-e8-b5-9b/";
+    this.page.identifier = "2008/人生随想/e7-bd-91-e7-bb-9c-e6-b0-94-e7-90-83-e8-b5-9b-e8-b7-91-e5-a4-a7-e8-b5-9b/";
+    this.page.title = ' 网络气球赛跑大赛		';
+    };
+  function loadComments() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://coletree.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', '' + +new Date());
+    (d.head || d.body).appendChild(s);
+  }
+  
+    $(function() {
+      var offsetTop = $('#comments').offset().top - $(window).height();
+      if (offsetTop <= 0) {
+        // load directly when there's no a scrollbar
+        window.addEventListener('load', loadComments, false);
+      } else {
+        $(window).on('scroll.disqus_scroll', function() {
+          // offsetTop may changes because of manually resizing browser window or lazy loading images.
+          var offsetTop = $('#comments').offset().top - $(window).height();
+          var scrollTop = $(window).scrollTop();
+
+          // pre-load comments a bit? (margin or anything else)
+          if (offsetTop - scrollTop < 60) {
+            $(window).off('.disqus_scroll');
+            loadComments();
+          }
+        });
+      }
+    });
+  
+</script>
 
 
 
