@@ -8,6 +8,13 @@
     </url>
 
     <url>
+        <loc>https://coletree.com/weblog/categories/%E9%B1%BC%E9%87%8C%E7%94%9F%E6%B4%BB/</loc>
+        <lastmod>2019-08-20T13:21:53.876Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://coletree.com/weblog/categories/%E6%80%9D%E8%80%83%E9%9A%8F%E7%AC%94/</loc>
         <lastmod>2019-07-29T09:20:27.689Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -24,13 +31,6 @@
     <url>
         <loc>https://coletree.com/weblog/categories/%E8%A1%8C%E6%91%84%E4%BA%BA%E7%94%9F/</loc>
         <lastmod>2019-07-29T09:19:36.947Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://coletree.com/weblog/categories/%E9%B1%BC%E9%87%8C%E7%94%9F%E6%B4%BB/</loc>
-        <lastmod>2019-07-26T07:19:01.881Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
