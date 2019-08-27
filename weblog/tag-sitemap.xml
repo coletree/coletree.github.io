@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>https://coletree.com/weblog/tags/%E5%8C%97%E4%BA%AC/</loc>
+        <lastmod>2019-08-27T10:02:33.268Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://coletree.com/weblog/tags/%E9%A6%99%E6%B8%AF/</loc>
         <lastmod>2019-08-27T09:24:16.811Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -68,13 +75,6 @@
     <url>
         <loc>https://coletree.com/weblog/tags/%E6%88%90%E9%83%BD/</loc>
         <lastmod>2019-08-27T04:39:19.871Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://coletree.com/weblog/tags/%E5%8C%97%E4%BA%AC/</loc>
-        <lastmod>2019-08-27T04:38:58.740Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
