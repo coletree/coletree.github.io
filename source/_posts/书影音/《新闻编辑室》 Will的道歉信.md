@@ -1,5 +1,5 @@
 ---
-title: " Will的道歉信\t\t"
+title: " Will的道歉信"
 url: 1963.html
 id: 1963
 categories:

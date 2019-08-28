@@ -1,7 +1,5 @@
 ---
-title: " No Day But Today——《吉屋出租》\t\t"
-url: 139.html
-id: 139
+title: " No Day But Today——《吉屋出租》"
 categories:
   - 发现分享
 date: 2008-04-12 06:48:20

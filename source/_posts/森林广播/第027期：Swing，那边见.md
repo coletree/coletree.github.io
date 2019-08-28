@@ -1,13 +1,11 @@
 ---
-title: " Swing，那边见\t\t"
+title: " Swing，那边见"
 tags:
   - swing
   - 告别
   - 流行
   - 粤语
   - 纪念
-url: 279.html
-id: 279
 categories:
   - 森林广播
 date: 2011-11-22 18:28:16

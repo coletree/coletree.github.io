@@ -1,5 +1,5 @@
 ---
-title: " Design is life\t\t"
+title: " Design is life"
 url: 1294.html
 id: 1294
 categories:

@@ -1,5 +1,5 @@
 ---
-title: " 天空下的Poo Poo\t\t"
+title: " 天空下的Poo Poo"
 url: 19.html
 id: 19
 categories:

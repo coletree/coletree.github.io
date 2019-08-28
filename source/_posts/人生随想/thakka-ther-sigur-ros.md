@@ -1,5 +1,5 @@
 ---
-title: " þakka þér Sigur Rós\t\t"
+title: " þakka þér Sigur Rós"
 url: 1670.html
 id: 1670
 categories:

@@ -4,8 +4,6 @@ tags:
   - lou reed
   - 地下丝绒
   - 纪念
-url: 1154.html
-id: 1154
 categories:
   - 森林广播
 date: 2013-12-07 16:04:05

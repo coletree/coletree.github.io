@@ -1,5 +1,5 @@
 ---
-title: " Welcome to Paradise\t\t"
+title: " Welcome to Paradise"
 url: 178.html
 id: 178
 categories:

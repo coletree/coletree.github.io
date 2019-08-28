@@ -1,5 +1,5 @@
 ---
-title: " 从Xman到Xthing–《The Lost Room》谜之屋\t\t"
+title: " 从Xman到Xthing–《The Lost Room》谜之屋"
 url: 40.html
 id: 40
 categories:

@@ -1,5 +1,5 @@
 ---
-title: " The beauty of the code\t\t"
+title: " The beauty of the code"
 url: 261.html
 id: 261
 categories:

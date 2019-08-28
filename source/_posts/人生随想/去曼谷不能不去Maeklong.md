@@ -1,5 +1,5 @@
 ---
-title: " 去曼谷不能不去Maeklong\t\t"
+title: " 去曼谷不能不去Maeklong"
 url: 833.html
 id: 833
 categories:

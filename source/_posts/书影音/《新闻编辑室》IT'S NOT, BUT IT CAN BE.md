@@ -1,5 +1,5 @@
 ---
-title: " IT'S NOT, BUT IT CAN BE\t\t"
+title: " IT'S NOT, BUT IT CAN BE"
 url: 1955.html
 id: 1955
 categories:

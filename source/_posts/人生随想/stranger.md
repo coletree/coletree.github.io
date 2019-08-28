@@ -1,5 +1,5 @@
 ---
-title: " Stranger\t\t"
+title: " Stranger"
 url: 591.html
 id: 591
 categories:

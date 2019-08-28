@@ -1,5 +1,5 @@
 ---
-title: " Waaaaaaali\t\t"
+title: " Waaaaaaali"
 url: 315.html
 id: 315
 categories:

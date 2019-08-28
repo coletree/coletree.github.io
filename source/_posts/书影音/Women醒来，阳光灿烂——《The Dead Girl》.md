@@ -1,7 +1,5 @@
 ---
-title: " Women醒来，阳光灿烂——《The Dead Girl》\t\t"
-url: 158.html
-id: 158
+title: " Women醒来，阳光灿烂——《The Dead Girl》"
 categories:
   - 发现分享
 date: 2008-04-12 07:11:32

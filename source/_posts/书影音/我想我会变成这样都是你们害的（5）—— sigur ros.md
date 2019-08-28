@@ -1,5 +1,5 @@
 ---
-title: " 我想我会变成这样都是你们害的(5) —— sigur ros\t\t"
+title: " 我想我会变成这样都是你们害的(5) —— sigur ros"
 url: 118.html
 id: 118
 categories:

@@ -1,5 +1,5 @@
 ---
-title: " Walter Martin and Paloma Munoz\t\t"
+title: " Walter Martin and Paloma Munoz"
 url: 164.html
 id: 164
 categories:

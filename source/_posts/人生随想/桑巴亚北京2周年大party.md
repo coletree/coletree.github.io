@@ -1,5 +1,5 @@
 ---
-title: " 桑巴亚北京2周年大party\t\t"
+title: " 桑巴亚北京2周年大party"
 url: 188.html
 id: 188
 categories:

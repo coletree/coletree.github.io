@@ -1,5 +1,5 @@
 ---
-title: " Merry Christmas\t\t"
+title: " Merry Christmas"
 url: 757.html
 id: 757
 categories:

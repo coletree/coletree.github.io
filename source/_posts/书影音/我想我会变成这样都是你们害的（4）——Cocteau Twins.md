@@ -1,5 +1,5 @@
 ---
-title: " 我想我会变成这样都是你们害的（4）——Cocteau Twins\t\t"
+title: " 我想我会变成这样都是你们害的（4）——Cocteau Twins"
 url: 114.html
 id: 114
 categories:

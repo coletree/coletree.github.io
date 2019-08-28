@@ -1,12 +1,10 @@
 ---
-title: " 美好的Mojave3\t\t"
+title: " 美好的Mojave3"
 tags:
   - mojave3
   - 安静
   - 录音
   - 现场
-url: 652.html
-id: 652
 categories:
   - 森林广播
 date: 2012-09-28 23:57:07

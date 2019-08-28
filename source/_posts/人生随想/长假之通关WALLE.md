@@ -1,5 +1,5 @@
 ---
-title: " 长假之通关WALLE\t\t"
+title: " 长假之通关WALLE"
 url: 345.html
 id: 345
 categories:

@@ -1,5 +1,5 @@
 ---
-title: " 我想我会变成这样都是你们害的（6）——BEYOND\t\t"
+title: " 我想我会变成这样都是你们害的（6）——BEYOND"
 url: 132.html
 id: 132
 categories:

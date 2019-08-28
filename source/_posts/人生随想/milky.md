@@ -1,5 +1,5 @@
 ---
-title: " Milky\t\t"
+title: " Milky"
 url: 176.html
 id: 176
 categories:

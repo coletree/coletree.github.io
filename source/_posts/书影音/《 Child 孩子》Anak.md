@@ -1,7 +1,5 @@
 ---
-title: " Anak - Child -  孩子\t\t"
-url: 502.html
-id: 502
+title: " Anak - Child -  孩子"
 categories:
   - 发现分享
 date: 2009-05-09 09:07:02

@@ -1,5 +1,5 @@
 ---
-title: " 我想我会变成这样都是你们害的（2）—— blonde redhead\t\t"
+title: " 我想我会变成这样都是你们害的（2）—— blonde redhead"
 url: 102.html
 id: 102
 categories:

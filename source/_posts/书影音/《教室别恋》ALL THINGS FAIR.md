@@ -1,5 +1,5 @@
 ---
-title: " ALL THINGS FAIR——《教室别恋》\t\t"
+title: " ALL THINGS FAIR——《教室别恋》"
 url: 56.html
 id: 56
 categories:

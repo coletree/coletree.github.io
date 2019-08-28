@@ -1,5 +1,5 @@
 ---
-title: " 英国式KUSO——《僵尸肖恩》&《热血警探》\t\t"
+title: " 英国式KUSO——《僵尸肖恩》&《热血警探》"
 url: 51.html
 id: 51
 categories:

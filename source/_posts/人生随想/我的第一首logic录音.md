@@ -1,5 +1,5 @@
 ---
-title: " 我的第一首logic录音\t\t"
+title: " 我的第一首logic录音"
 url: 1644.html
 id: 1644
 categories:

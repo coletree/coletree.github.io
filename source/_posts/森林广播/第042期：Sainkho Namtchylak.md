@@ -1,11 +1,9 @@
 ---
-title: " Sainkho Namtchylak\t\t"
+title: " Sainkho Namtchylak"
 tags:
   - 民族
   - 演出
   - 现场
-url: 549.html
-id: 549
 categories:
   - 森林广播
 date: 2012-07-21 22:36:43

@@ -1,13 +1,11 @@
 ---
-title: " 五月雨和Sophie Zelmani\t\t"
+title: " 五月雨和Sophie Zelmani"
 tags:
   - Sophie Zelmani
   - 演出
   - 现场
   - 舒服
   - 雨
-url: 1014.html
-id: 1014
 categories:
   - 森林广播
 date: 2013-05-30 20:00:44

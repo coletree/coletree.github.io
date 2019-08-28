@@ -1,5 +1,5 @@
 ---
-title: " logic第一课小记\t\t"
+title: " logic第一课小记"
 url: 1622.html
 id: 1622
 categories:

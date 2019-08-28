@@ -1,5 +1,5 @@
 ---
-title: " 我想我会变成这样都是你们害的（1） —— coldplay\t\t"
+title: " 我想我会变成这样都是你们害的（1） —— coldplay"
 url: 89.html
 id: 89
 categories:

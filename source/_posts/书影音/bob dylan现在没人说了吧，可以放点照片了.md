@@ -1,7 +1,5 @@
 ---
-title: " bob dylan现在没人说了吧，可以放点照片了\t\t"
-url: 1389.html
-id: 1389
+title: " bob dylan现在没人说了吧，可以放点照片了"
 categories:
   - 行摄人生
 date: 2011-04-25 23:38:03

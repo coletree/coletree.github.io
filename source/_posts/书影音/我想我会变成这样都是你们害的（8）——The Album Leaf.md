@@ -1,5 +1,5 @@
 ---
-title: " 我想我会变成这样都是你们害的（8）——The Album Leaf\t\t"
+title: " 我想我会变成这样都是你们害的（8）——The Album Leaf"
 url: 141.html
 id: 141
 categories:

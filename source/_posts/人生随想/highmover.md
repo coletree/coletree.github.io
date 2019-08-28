@@ -1,5 +1,5 @@
 ---
-title: " High Mover\t\t"
+title: " High Mover"
 url: 2762.html
 id: 2762
 categories:

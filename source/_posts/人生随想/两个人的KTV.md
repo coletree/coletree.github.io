@@ -1,5 +1,5 @@
 ---
-title: " 两个人的KTV\t\t"
+title: " 两个人的KTV"
 url: 1491.html
 id: 1491
 categories:

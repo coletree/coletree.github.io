@@ -1,5 +1,5 @@
 ---
-title: " 我以为cole就是油菜\t\t"
+title: " 我以为cole就是油菜"
 url: 814.html
 id: 814
 categories:

@@ -1,5 +1,5 @@
 ---
-title: " 我想我会变成这样都是你们害的（7）——Sparklehorse\t\t"
+title: " 我想我会变成这样都是你们害的（7）——Sparklehorse"
 url: 135.html
 id: 135
 categories:

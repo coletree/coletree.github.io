@@ -1,7 +1,5 @@
 ---
-title: " Cucurrucucu Paloma —— 鸽子歌\t\t"
-url: 62.html
-id: 62
+title: " Cucurrucucu Paloma —— 鸽子歌"
 categories:
   - 发现分享
 date: 2008-04-12 01:07:26

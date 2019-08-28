@@ -1,5 +1,5 @@
 ---
-title: " 07-08 Premier League Champions!\t\t"
+title: " 07-08 Premier League Champions!"
 url: 233.html
 id: 233
 categories:

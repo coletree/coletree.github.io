@@ -1,5 +1,5 @@
 ---
-title: " coletree.cn域名即将停用\t\t"
+title: " coletree.cn域名即将停用"
 url: 429.html
 id: 429
 categories:

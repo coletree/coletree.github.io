@@ -1,7 +1,5 @@
 ---
-title: " World's End Girlfriend\t\t"
-url: 247.html
-id: 247
+title: " World's End Girlfriend"
 categories:
   - 发现分享
 date: 2008-06-03 23:03:36

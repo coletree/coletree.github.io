@@ -1,5 +1,5 @@
 ---
-title: " 日文起名\t\t"
+title: " 日文起名"
 url: 1334.html
 id: 1334
 categories:

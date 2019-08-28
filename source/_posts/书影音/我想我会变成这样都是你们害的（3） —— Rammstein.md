@@ -1,5 +1,5 @@
 ---
-title: " 我想我会变成这样都是你们害的（3） —— Rammstein\t\t"
+title: " 我想我会变成这样都是你们害的（3） —— Rammstein"
 url: 106.html
 id: 106
 categories:

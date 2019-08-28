@@ -1,5 +1,5 @@
 ---
-title: " LAVA BAR - chocolate that mends broken heart\t\t"
+title: " LAVA BAR - chocolate that mends broken heart"
 url: 182.html
 id: 182
 categories:

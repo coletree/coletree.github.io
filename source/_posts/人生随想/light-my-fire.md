@@ -1,5 +1,5 @@
 ---
-title: " Light My Fire\t\t"
+title: " Light My Fire"
 url: 1018.html
 id: 1018
 categories:
