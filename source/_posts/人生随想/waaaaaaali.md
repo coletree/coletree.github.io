@@ -1,9 +1,5 @@
 ---
-title: " Waaaaaaali"
-url: 315.html
-id: 315
-categories:
-  - 思考随笔
+title: "Waaaaaaali"
 date: 2008-08-24 23:02:53
 tags:
 ---

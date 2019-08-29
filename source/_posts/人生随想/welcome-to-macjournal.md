@@ -1,9 +1,5 @@
 ---
-title: " 日文起名"
-url: 1334.html
-id: 1334
-categories:
-  - 思考随笔
+title: "日文起名"
 date: 2012-02-28 13:47:18
 tags:
 ---

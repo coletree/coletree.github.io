@@ -1,9 +1,5 @@
 ---
-title: " coletree.cn域名即将停用"
-url: 429.html
-id: 429
-categories:
-  - 思考随笔
+title: "coletree.cn域名即将停用"
 date: 2009-03-03 12:01:11
 tags:
 ---

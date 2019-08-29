@@ -1,9 +1,5 @@
 ---
-title: " LAVA BAR - chocolate that mends broken heart"
-url: 182.html
-id: 182
-categories:
-  - 思考随笔
+title: "LAVA BAR - chocolate that mends broken heart"
 date: 2008-04-12 20:25:17
 tags:
 ---

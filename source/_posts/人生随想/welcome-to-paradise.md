@@ -1,9 +1,5 @@
 ---
-title: " Welcome to Paradise"
-url: 178.html
-id: 178
-categories:
-  - 思考随笔
+title: "Welcome to Paradise"
 date: 2008-04-12 07:44:26
 tags:
 ---

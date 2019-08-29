@@ -1,9 +1,5 @@
 ---
-title: " The beauty of the code"
-url: 261.html
-id: 261
-categories:
-  - 发现分享
+title: "The beauty of the code"
 date: 2008-06-30 04:47:15
 tags:
 ---

@@ -1,9 +1,5 @@
 ---
-title: " Merry Christmas"
-url: 757.html
-id: 757
-categories:
-  - 思考随笔
+title: "Merry Christmas"
 date: 2009-12-25 20:24:35
 tags:
 ---

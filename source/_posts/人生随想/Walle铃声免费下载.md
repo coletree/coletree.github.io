@@ -1,9 +1,5 @@
 ---
-title: " Walle铃声免费下载"
-url: 369.html
-id: 369
-categories:
-  - 思考随笔
+title: "Walle铃声免费下载"
 date: 2008-11-06 23:07:27
 tags:
 ---
