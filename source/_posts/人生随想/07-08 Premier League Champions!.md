@@ -1,9 +1,5 @@
 ---
 title: " 07-08 Premier League Champions!"
-url: 233.html
-id: 233
-categories:
-  - 思考随笔
 date: 2008-05-11 20:41:42
 tags:
 ---
