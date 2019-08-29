@@ -1,9 +1,5 @@
 ---
-title: " Light My Fire"
-url: 1018.html
-id: 1018
-categories:
-  - 发现分享
+title: "Light My Fire"
 date: 2010-06-30 21:23:52
 tags:
 ---

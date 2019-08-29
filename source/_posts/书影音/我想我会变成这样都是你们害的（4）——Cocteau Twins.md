@@ -1,9 +1,5 @@
 ---
 title: " 我想我会变成这样都是你们害的（4）——Cocteau Twins"
-url: 114.html
-id: 114
-categories:
-  - 发现分享
 date: 2008-04-12 06:21:56
 tags:
 ---
