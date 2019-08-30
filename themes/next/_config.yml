@@ -145,12 +145,12 @@ baidu_push: false
 # External url should start with http:// or https://
 menu:
   home: / || home
-  categories: /categories/ || th
+  #categories: /categories/ || th
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
-  #about: /about/ || user
+  about: /about/ || user
   #tags: /tags/ || tags
-  #sitemap: /sitemap.xml || sitemap
+  sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
 
 # Enable / Disable menu icons / item badges.
@@ -188,7 +188,7 @@ social:
   #E-Mail: mailto:yourname@gmail.com || envelope
   Weibo: https://weibo.com/coletree || weibo
   #Google: https://plus.google.com/yourname || google
-  #Twitter: https://twitter.com/yourname || twitter
+  Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
