@@ -1,9 +1,5 @@
 ---
-title: " 天空下的Poo Poo"
-url: 19.html
-id: 19
-categories:
-  - 发现分享
+title: "天空下的Poo Poo"
 date: 2008-04-11 01:18:43
 tags:
 ---

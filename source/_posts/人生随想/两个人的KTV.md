@@ -1,9 +1,5 @@
 ---
-title: " 两个人的KTV"
-url: 1491.html
-id: 1491
-categories:
-  - 思考随笔
+title: "两个人的KTV"
 date: 2011-08-11 23:52:38
 tags:
 ---

@@ -1,9 +1,5 @@
 ---
-title: " 桑巴亚北京2周年大party"
-url: 188.html
-id: 188
-categories:
-  - 思考随笔
+title: "桑巴亚北京2周年大party"
 date: 2008-04-17 22:32:53
 tags:
 ---

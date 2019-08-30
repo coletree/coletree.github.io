@@ -1,9 +1,5 @@
 ---
-title: " 去曼谷不能不去Maeklong"
-url: 833.html
-id: 833
-categories:
-  - 思考随笔
+title: "去曼谷不能不去Maeklong"
 date: 2010-03-10 12:48:58
 tags:
 ---
