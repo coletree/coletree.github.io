@@ -150,7 +150,7 @@ menu:
   #schedule: /schedule/ || calendar
   about: /about/ || user
   #tags: /tags/ || tags
-  sitemap: /sitemap.xml || sitemap
+  #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
 
 # Enable / Disable menu icons / item badges.
@@ -186,14 +186,14 @@ site_state: true
 social:
   GitHub: https://github.com/coletree || github
   #E-Mail: mailto:yourname@gmail.com || envelope
-  Weibo: https://weibo.com/coletree || weibo
+  #Weibo: https://weibo.com/coletree || weibo
   #Google: https://plus.google.com/yourname || google
-  Twitter: https://twitter.com/yourname || twitter
+  Twitter: https://twitter.com/coletree || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
   #YouTube: https://youtube.com/yourname || youtube
-  Instagram: https://instagram.com/coletree || instagram
+  #Instagram: https://instagram.com/coletree || instagram
   #Skype: skype:yourname?call|chat || skype
 
 social_icons:
