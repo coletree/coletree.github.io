@@ -8,15 +8,22 @@
     </url>
     
     <url>
-        <loc>https://coletree.com/weblog/contact/</loc>
-        <lastmod>2019-07-26T04:35:06.372Z</lastmod>
+        <loc>https://coletree.com/weblog/about/</loc>
+        <lastmod>2019-09-10T02:50:20.492Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://coletree.com/weblog/places/</loc>
-        <lastmod>2019-07-26T04:35:06.371Z</lastmod>
+        <lastmod>2019-09-10T02:33:03.118Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://coletree.com/weblog/contact/</loc>
+        <lastmod>2019-07-26T04:35:06.372Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

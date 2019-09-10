@@ -1,9 +1,7 @@
 ---
-title: " 一起走过的地方\t\t"
-url: 2234.html
-id: 2234
-comments: false
+title: "一起走过的地方"
 date: 2012-10-16 14:18:42
+comments: false
 ---
 
 *   [北京不知不觉我们在这里住了十二年了](http://www.coletree.com/weblog/tag/beijing/) 2000.9
@@ -41,5 +39,6 @@ date: 2012-10-16 14:18:42
 *   [南京去的时候略有遗憾](http://www.coletree.com/weblog/tag/nanjing/) 2016.9
 *   [北海北海好多虾饼](http://www.coletree.com/weblog/tag/beihai/) 2017.2
 *   [南宁好安静的一个城市](http://www.coletree.com/weblog/tag/nanning/) 2017.2
-*   [肇庆带着妹妹爬山](http://www.coletree.com/weblog/tag/zhaoqing/) 2017.8
-*   下一站，会是哪里......
+*   [肇庆带着妹妹爬山](http://www.coletree.com/weblog/tag/zhaoqing/) 2017.8   
+
+下一站，会是哪里......
