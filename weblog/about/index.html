@@ -108,6 +108,8 @@
 <meta name="twitter:description" content="很高兴遇见你欢迎来到晓禾&amp;amp;依树的个人网站。我们从08年开始写博客，从最早的微软live space，到自建wordpress，中间经历了中文互联网的墙的出现，换域名、转移空间出海、换主机服务商，一直到前段时间将内容迁移至Github，一直延续了10年。也是一段非技术人员的艰难网络逃难史。 这里一直记录我们的生活所想，产量有多有少，但一直没考虑变现，以至在10年互联网的历程里错失了不少机会，">
 
 
+  
+
 
   <link rel="alternate" href="/weblog/atom.xml" title="晓禾依树" type="application/atom+xml">
 
@@ -243,6 +245,22 @@
         
         
           
+          <li class="menu-item menu-item-categories">
+
+    
+    
+      
+    
+
+    
+
+    <a href="/weblog/categories/" rel="section"><i class="menu-item-icon fa fa-fw fa-th"></i> <br>Categories</a>
+
+  </li>
+        
+        
+        
+          
           <li class="menu-item menu-item-archives">
 
     
@@ -271,6 +289,22 @@
     <a href="/weblog/about/" rel="section"><i class="menu-item-icon fa fa-fw fa-user"></i> <br>About</a>
 
   </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-sitemap">
+
+    
+    
+      
+    
+
+    
+
+    <a href="/weblog/sitemap.xml" rel="section"><i class="menu-item-icon fa fa-fw fa-sitemap"></i> <br>Sitemap</a>
+
+  </li>
 
       
       
@@ -297,6 +331,12 @@
             
 
     
+    
+      
+      
+    
+      
+      
     
       
       
@@ -374,13 +414,6 @@
           
 
   
-    <div class="comments" id="comments">
-      <div id="disqus_thread">
-        <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
-      </div>
-    </div>
-
-  
 
 
 
@@ -416,6 +449,8 @@
         <div class="site-overview">
 
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  
+    <img class="site-author-image" itemprop="image" src="/weblog/images/avatar.jpg" alt>
   
   <p class="site-author-name" itemprop="name"></p>
   <div class="site-description motion-element" itemprop="description"></div>
@@ -725,7 +760,7 @@
       
         
       
-        <a href="https://www.douban.com/people/coletree" title="Douban &rarr; https://www.douban.com/people/coletree" rel="noopener" target="_blank"><i class="fa fa-fw fa-douban"></i>Douban</a>
+        <a href="https://www.douban.com/people/coletree" title="Douban &rarr; https://www.douban.com/people/coletree" rel="noopener" target="_blank"><i class="fa fa-fw fa-link"></i>Douban</a>
       </span>
     
       <span class="links-of-author-item">
@@ -742,6 +777,16 @@
   </div>
 
 
+
+  <div class="cc-license motion-element" itemprop="license">
+  
+  
+    
+  
+  
+  
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="cc-opacity" rel="noopener" target="_blank"><img src="/weblog/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+  </div>
 
 
 
@@ -797,15 +842,9 @@
 
 
 
-  <div class="powered-by">Powered by <a href="https://hexo.io" class="theme-link" rel="noopener" target="_blank">Hexo</a> v3.9.0</div>
 
 
 
-  <span class="post-meta-divider">|</span>
-
-
-
-  <div class="theme-info">Theme – <a href="https://theme-next.org" class="theme-link" rel="noopener" target="_blank">NexT.Pisces</a> v7.2.0</div>
 
 
 
@@ -924,45 +963,6 @@
 
 
 
-  
-
-<script>
-  var disqus_config = function() {
-    this.page.url = "https://coletree.com/weblog/about/index.html";
-    this.page.identifier = "about/index.html";
-    this.page.title = '关于晓禾&依树';
-    };
-  function loadComments() {
-    var d = document, s = d.createElement('script');
-    s.src = 'https://coletree.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', '' + +new Date());
-    (d.head || d.body).appendChild(s);
-  }
-  
-    $(function() {
-      var offsetTop = $('#comments').offset().top - $(window).height();
-      if (offsetTop <= 0) {
-        // load directly when there's no a scrollbar
-        window.addEventListener('load', loadComments, false);
-      } else {
-        $(window).on('scroll.disqus_scroll', function() {
-          // offsetTop may changes because of manually resizing browser window or lazy loading images.
-          var offsetTop = $('#comments').offset().top - $(window).height();
-          var scrollTop = $(window).scrollTop();
-
-          // pre-load comments a bit? (margin or anything else)
-          if (offsetTop - scrollTop < 60) {
-            $(window).off('.disqus_scroll');
-            loadComments();
-          }
-        });
-      }
-    });
-  
-</script>
-
-
-
 
 
   
@@ -1001,6 +1001,16 @@ window.addEventListener("message", function(e) {
 </script>
 
 
+
+  <script>
+    (function(){
+      var bp = document.createElement('script');
+      var curProtocol = window.location.protocol.split(':')[0];
+      bp.src = (curProtocol === 'https') ? 'https://zz.bdstatic.com/linksubmit/push.js' : 'http://push.zhanzhang.baidu.com/push.js';
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(bp, s);
+    })();
+  </script>
 
 
 

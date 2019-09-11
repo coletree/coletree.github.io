@@ -4,6 +4,7 @@ date: 2012-10-16 14:18:42
 comments: false
 ---
 
+
 *   [北京不知不觉我们在这里住了十二年了](http://www.coletree.com/weblog/tag/beijing/) 2000.9
 *   [秦皇岛那年公司旅游去的](http://www.coletree.com/weblog/tag/qinhuangdao/) 2007.8
 *   [广州即将长住的地方](http://www.coletree.com/weblog/tag/guangzhou/) 2008.2 ／2012.1
