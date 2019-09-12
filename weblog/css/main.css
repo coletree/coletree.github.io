@@ -1723,8 +1723,8 @@ pre .javascript .function {
 }
 .site-author-image {
   display: block;
-  margin: 0 auto;
-  padding: 2px;
+  margin: 0 auto 40px;
+  padding: 5px;
   max-width: 120px;
   height: auto;
   border: 1px solid #eee;
@@ -1763,7 +1763,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3696af;
+  background: #ffe41f;
 }
 .feed-link,
 .chat {
@@ -2378,7 +2378,7 @@ ul.breadcrumb li+li:last-child {
 .content-wrap {
   float: right;
   box-sizing: border-box;
-  padding: 40px;
+  padding: 40px 80px;
   width: calc(100% - 252px);
   background: #fff;
   min-height: 700px;
@@ -2445,7 +2445,7 @@ ul.breadcrumb li+li:last-child {
 .site-meta {
   padding: 20px 0;
   color: #fff;
-  background: #70a609;
+  background: #294d29;
 }
 @media (max-width: 991px) {
   .site-meta {
