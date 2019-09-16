@@ -1723,7 +1723,7 @@ pre .javascript .function {
 }
 .site-author-image {
   display: block;
-  margin: 0 auto 40px;
+  margin: 16px auto 24px;
   padding: 5px;
   max-width: 120px;
   height: auto;
@@ -1763,7 +1763,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffe41f;
+  background: #998c9e;
 }
 .feed-link,
 .chat {
@@ -2445,7 +2445,7 @@ ul.breadcrumb li+li:last-child {
 .site-meta {
   padding: 20px 0;
   color: #fff;
-  background: #294d29;
+  background: #333;
 }
 @media (max-width: 991px) {
   .site-meta {
