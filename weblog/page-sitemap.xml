@@ -8,6 +8,13 @@
     </url>
     
     <url>
+        <loc>https://coletree.com/weblog/resource/</loc>
+        <lastmod>2019-09-18T03:13:45.965Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://coletree.com/weblog/trip/</loc>
         <lastmod>2019-09-11T01:43:45.236Z</lastmod>
         <changefreq>weekly</changefreq>
