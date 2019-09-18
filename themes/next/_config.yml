@@ -147,7 +147,7 @@ menu:
   home: / || home
   archives: /archives/ || archive
   about: /about/ || user
-  resource: /resource/ || website
+  Resource: /resource/ || site
   #categories: /categories/ || th
   #schedule: /schedule/ || calendar
   #tags: /tags/ || tags
