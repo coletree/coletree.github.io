@@ -6,10 +6,33 @@
   <link href="/weblog/atom.xml" rel="self"/>
   
   <link href="https://coletree.com/weblog/"/>
-  <updated>2019-09-13T03:27:31.246Z</updated>
+  <updated>2019-09-27T16:25:08.120Z</updated>
   <id>https://coletree.com/weblog/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何高效地使用 Google 进行搜索</title>
+    <link href="https://coletree.com/weblog/2019/%E7%94%9F%E6%B4%BB%E6%8A%80%E8%83%BD/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%9C%B0%E4%BD%BF%E7%94%A8Google%E8%BF%9B%E8%A1%8C%E6%90%9C%E7%B4%A2/"/>
+    <id>https://coletree.com/weblog/2019/生活技能/如何高效地使用Google进行搜索/</id>
+    <published>2019-09-27T11:23:56.000Z</published>
+    <updated>2019-09-27T16:25:08.120Z</updated>
+    
+    <content type="html"><![CDATA[<p>提升使用搜索引擎的效率，除了尽量将你的问题转化成多个关键词的描述之外，还有一些基本的技巧需要掌握一下，以下是10条建议。</p><ol><li><p>用双引号 “” 明确自己要搜索的词，如：“Puppy Dog Sweaters”，如果不加双引号就当作是几个关键词，前后加了双引号之后，搜索结果是精确匹配整个词组</p></li><li><p>用连字符 - 去掉一些不相关的关键词，比如搜索“Mustang”，处理的结果会包含“动物Mustang”，和“汽车Mustang”。如果不想要出现汽车相关的结果，就可以用连字符了： Mustang -cars</p></li><li><p>用波浪符 ~ 使用近义词进行搜索，如：~elderly 等同于搜索 ~older</p></li><li><p>用星号 * 代替不确定的词，如：“Come * right now * me”，这个方法特别适用于歌词搜索</p></li><li><p>用.. 搜索一个范围内的数字，如：41..50</p></li><li><p>使用 OR 关键词一次搜索多个关键词，如：chocolate OR white chocolate，会同时搜索巧克力或白巧克力</p></li><li><p>用 filetype 关键词搜索特定类型的文件，如： “design process for pros” filetype:pdf</p></li><li><p>用 site 关键词搜索特定的网站，如：Sidney Crosby site:coletree.com</p></li><li><p>用 link 关键词查找链接到网页的其它网页，如：link:coletree.com</p></li><li><p>用 relate 关键词搜索与网站相似的其它网站，如：related:coletree.com</p></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;提升使用搜索引擎的效率，除了尽量将你的问题转化成多个关键词的描述之外，还有一些基本的技巧需要掌握一下，以下是10条建议。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;用双引号 “” 明确自己要搜索的词，如：“Puppy Dog Sweaters”，如果不加双引号就当作是几个关键词，前后
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>台湾乐队</title>
@@ -430,36 +453,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>感动成人的儿歌</title>
-    <link href="https://coletree.com/weblog/2015/%E6%A3%AE%E6%9E%97%E5%B9%BF%E6%92%AD/%E7%AC%AC101%E6%9C%9F%EF%BC%9A%E6%84%9F%E5%8A%A8%E6%88%90%E4%BA%BA%E7%9A%84%E5%84%BF%E6%AD%8C/"/>
-    <id>https://coletree.com/weblog/2015/森林广播/第101期：感动成人的儿歌/</id>
-    <published>2015-05-30T22:22:57.000Z</published>
-    <updated>2019-09-10T02:09:45.085Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="../../../images/radiocover/radio_101.jpg" alt="晓禾依树森林电台"> </p><p>又到一年儿童节，好听的儿童歌曲不少，但在我们长大以后还能让人感动的似乎也并不太多。感动成人的儿歌，一定是歌曲背后有些故事让你感动过。这期电台筛选了我们喜爱的一些儿歌，每次听这些歌都会心一笑，或者有小小的感动。   </p><audio id="audio" controls preload="none">  <source id="mp3" src="http://www.coletree.com/radio/coletree_radio_101.mp3"></audio>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;../../../images/radiocover/radio_101.jpg&quot; alt=&quot;晓禾依树森林电台&quot;&gt; &lt;/p&gt;
-&lt;p&gt;又到一年儿童节，好听的儿童歌曲不少，但在我们长大以后还能让人感动的似乎也并不太多。感动成人的儿歌，一定是歌曲背后有些故事让
-      
-    
-    </summary>
-    
-      <category term="森林广播" scheme="https://coletree.com/weblog/categories/%E6%A3%AE%E6%9E%97%E5%B9%BF%E6%92%AD/"/>
-    
-    
-      <category term="舒服" scheme="https://coletree.com/weblog/tags/%E8%88%92%E6%9C%8D/"/>
-    
-      <category term="快乐" scheme="https://coletree.com/weblog/tags/%E5%BF%AB%E4%B9%90/"/>
-    
-      <category term="温暖" scheme="https://coletree.com/weblog/tags/%E6%B8%A9%E6%9A%96/"/>
     
   </entry>
   
