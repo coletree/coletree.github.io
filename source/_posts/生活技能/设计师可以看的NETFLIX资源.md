@@ -5,7 +5,7 @@ tags:
 ---
 
 
-## 1. Abstract: The Art of Design
+## Abstract: The Art of Design
 Created by: Scott Dadlich
 Seasons: 1
 Episodes: 8
@@ -14,7 +14,7 @@ Runtime: 42-48 minutes
 This Netflix original docu-series, created by former WIRED editor Scott Dadlich, is a global sampler of the men and women who animate everything from screens to shoes. Each episode stands as its own documentary film, highlighting design visionaries like Nike designer Tinker Hatfield. Abstract isn’t just about storytelling, though: it illustrates the intent behind the amazing objects around us—which many take for granted—and the decisions from which they originated.
 
 
-## 2. The Creative Brain
+## The Creative Brain
 Directors: Jennifer Beamish, Toby Trackman
 Starring: David Eagleman
 Runtime: 52 minutes
@@ -26,7 +26,7 @@ Eagleman, a neuroscientist and professor at Stanford University, taps into the m
 Eagleman’s premise is that being original isn’t about pulling ideas out of thin air: it’s about cobbling together existing ideas to create something remarkable.
 
 
-## 3. The Pixar Story
+## The Pixar Story
 Director: Leslie Iwerks
 Interviewees: Steve Jobs, Tom Hanks, Michael Eisner, and more
 Runtime: 88 minutes
@@ -36,7 +36,7 @@ In the mid-1980s, a trio of Bay Area idealists combined their talents in art, sc
 The Pixar Story takes viewers behind the scenes to witness the creative struggle and determination that fueled the next-level animation technology which revolutionized Hollywood. The film stitches together never-before-seen footage and exclusive interviews with pivotal people including Tim Allen and Tom Hanks to chronicle Pixar’s journey from startup to paradigm shifter.
 
 
-## 4. Jeremy Scott: The People’s Designer
+## Jeremy Scott: The People’s Designer
 Director: Vlad Yudlin
 Starring: Jeremy Scott, Miley Cyrus, Rihanna, Lady Gaga, ASAP Rocky, and more
 Runtime: 108 minutes
@@ -46,7 +46,7 @@ How do you go from farm boy to creative director of one of the world’s most pr
 Growing up in rural Missouri, Scott had dreams of becoming a fashion icon. But before realizing that dream, he would endure constant rejection, ridicule, and even homelessness before his crowning achievement: becoming Moschino’s creative director. This rags-to-riches documentary encapsulates the grit required to carve a name for oneself as a creative, with fascinating detours into the minutiae of the fashion industry.
 
 
-## 5. The 100 Years Show
+## The 100 Years Show
 Director: Alison Klayman
 Starring: Carmen Herrera
 Runtime: 29 minutes
@@ -58,7 +58,7 @@ The craziest part? She’s 104 years old.
 Born in Cuba in 1915, Carmen Herrera is the oldest contemporary artist on earth. However, her work was stifled until the early 2000s. She didn’t even sell her first piece of artwork until she was 81 years old. The 100 Years Show chronicles the misfortune of Herrera’s talent being overlooked because of her gender and nationality—but the story is undeniably inspiring as it illustrates Herrera’s creative endurance and the power of art to sustain itself for a lifetime.
 
 
-## 6. They’ll Love Me When I’m Dead
+## They’ll Love Me When I’m Dead
 Director: Morgan Neville
 Starring: Orson Welles, Frank Marshall, Peter Bogdanovich
 Runtime: 98 minutes
@@ -68,7 +68,7 @@ Orson Welles was dubbed Hollywood’s golden boy after directing Citizen Kane. A
 They’ll Love Me When I’m Dead is a riveting snapshot of Orson Welles’ creative genius and his attempt to create a genre-bending film, or what he called “a departure from [traditional] movie-making.” If this documentary doesn’t give you an appreciation for Welles’ creativity, it’s certain to instill a sense of urgency to act upon your own creative impulses.
 
 
-## 7. Blurred Lines: Inside the Art World
+## Blurred Lines: Inside the Art World
 Director: Barry Avrich
 Starring: Marina Abramovic, Katherine Arnold, Amy Cappellazzo, and more
 Runtime: 84 minutes
@@ -78,7 +78,7 @@ How does talent find an audience? How does power decide access? What—if anythi
 These are the questions Blurred Lines explores through the eyes of renowned artists such as Julian Schnabel, and the powerful players who propel the commercial art industry: insiders from MoMA and Art Basel, gallerists, traders, and more. If you want a candid, amoral look inside the cut-throat business of elite art, grab some popcorn and press play.
 
 
-## 8. 44 Pages
+## 44 Pages
 Director: Tony Shaff
 Runtime: 90 minutes
 
@@ -87,7 +87,7 @@ For more than seven decades, Highlights has shaped the lives of kids from the ba
 This heartwarming film documents the decisions that go into designing, writing, and producing each 44-page magazine as well as how Highlights is transitioning to the screen while preserving its tradition. Despite the lighthearted tone, the film is packed with insights into product-market fit and how to create work that stands the test of time. 44 Pages oozes nostalgia, so get ready for a trip down memory lane. 
 
 
-## 9. Print the Legend
+## Print the Legend
 Directors: Luis Lopez and Clay Tweel
 Runtime: 99 minutes
 
@@ -96,7 +96,7 @@ Since 1986, 3D printers have built engine parts, braces for teeth, and even arti
 Print the Legend looks behind the scenes at four competitors—3D ystems, Stratasys, MakerBot, and Formlabs—as they race to elevate 3-D printing from a fringe, tech-nerd niche into a mass-market consumer product that anyone can have on their desktop.
 
 
-## 10. Have You Seen the Listers?
+## Have You Seen the Listers?
 Director: Eddie Martin
 Starring: Anthony Lister
 Runtime: 86 minutes
@@ -106,7 +106,7 @@ Anthony Lister was destined to be an artist from childhood. Growing up in Austra
 In Have You Seen the Listers? Anthony opens up about his complicated relationship with fame, his inner demons, and his struggle to subvert conservative Australian culture through art. The film is a must-watch for up-and-coming creatives to see the flip-side of stardom.
 
 
-## 11. Floyd Norman: An Animated Life
+## Floyd Norman: An Animated Life
 Directors: Michael Fiore and Erik Sharkey
 Starring: Floyd Norman
 Runtime: 94 minutes
@@ -116,7 +116,7 @@ When Floyd Norman was a kid, he heard he could never have a career at Disney’s
 This documentary blends interviews and archival footage to tell the fascinating story of Floyd Norman the animator, but more importantly, the story of Floyd Norman the man—who paved a path for black creatives in show business.
 
 
-## 12. She Makes Comics
+## She Makes Comics
 Director: Marissa Stotter
 Starring: Kelly Sue DeConnick, Karen Berger, Jenette Kahn, and more
 Runtime: 70 minutes
@@ -126,5 +126,5 @@ It’s no question that female creatives have been—and often still are—overs
 She Makes Comics is comprised of eclectic interviews including underground comic artist Joyce Farmer, Comic-Con administrator Jackie Estrada, and a host of writers and critics. Uplifting, thought-provoking, and fearless, this documentary adds an important perspective to the conversation about gender equality in the creative field.
 
 
-![]https://www.invisionapp.com/inside-design/designers-guide-to-netflix/
+https://www.invisionapp.com/inside-design/designers-guide-to-netflix/
 
