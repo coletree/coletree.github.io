@@ -140,11 +140,13 @@ a:hover, a:active {
 }
 .page-top .nav a:hover {
   color: #4786D6;
+  padding: 0 10px 20px;
 }
 .page-top .nav a.current {
-  color: #5A5A5A;
-  padding: 0 10px 22px;
-  border-bottom: 4px solid #468F14;
+  font-weight: bold;
+  color: rgb(89, 185, 24);
+  padding: 0 10px 20px;
+  border-bottom: 3px solid rgb(89, 185, 24);
 }
 .page-top .information {
   float: right;
@@ -170,10 +172,10 @@ a:hover, a:active {
 }
 
 .sidebar {
-  width: 40%;
+  width: 36%;
   -webkit-background-size: cover;
   background-size: cover;
-  background-color: #fff;
+  background-color: #f9fafb;
   height: 100%;
   transition: 0.8s;
   top: 0;

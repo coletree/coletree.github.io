@@ -4,22 +4,22 @@
       if is_home()
         a.current(href="/weblog")= __('Home')					
       else
-        a(href="/")= __('Home')	
+        a(href="/weblog")= __('Home')	
     li
       if is_current('about')
         a.current(href="/weblog/about")= __('About')			
       else
-        a(href="/about")= __('About')
+        a(href="/weblog/about")= __('About')
     li
       if is_archive()
         a.current(href="/weblog/archives")= __('Archive')
       else
-        a(href="/archives")= __('Archive')
+        a(href="/weblog/archives")= __('Archive')
     li
       if is_current('links')
         a.current(href="/weblog/links")= __('Links')					
       else
-        a(href="/links")= __('Links')		
+        a(href="/weblog/links")= __('Links')		
   .information
     .back_btn
       li
