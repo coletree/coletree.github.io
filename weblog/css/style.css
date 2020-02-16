@@ -128,7 +128,7 @@ a:hover, a:active {
   list-style: none;
   padding: 18px 30px;
   float: left;
-  font-size: 12px;
+  font-size: 14px;
 }
 .page-top .nav li {
   position: relative;
@@ -143,8 +143,8 @@ a:hover, a:active {
 }
 .page-top .nav a.current {
   color: #5A5A5A;
-  padding-bottom: 22px;
-  border-bottom: 1px solid #5A5A5A;
+  padding: 0 10px 22px;
+  border-bottom: 4px solid #468F14;
 }
 .page-top .information {
   float: right;
@@ -184,7 +184,7 @@ a:hover, a:active {
 }
 .sidebar .logo-title {
   text-align: center;
-  padding-top: 240px;
+  padding-top: 200px;
 }
 .sidebar .logo-title .description {
   font-size: 14px;
@@ -199,7 +199,7 @@ a:hover, a:active {
   font-weight: bold;
   letter-spacing: 2px;
   line-height: 1;
-  margin: 0;
+  margin: 20px 0 0;
 }
 .sidebar .logo-title .title a {
   text-decoration: none;
@@ -230,7 +230,7 @@ a:hover, a:active {
 
 .post {
   background-color: #FFF;
-  margin: 30px;
+  margin: 30px 40px;
 }
 .post .post-title h1 {
   text-transform: uppercase;
