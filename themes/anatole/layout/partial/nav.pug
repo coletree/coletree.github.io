@@ -6,20 +6,12 @@
       else
         a(href="/weblog")= __('Home')	
     li
-      if is_current('about')
-        a.current(href="/weblog/about")= __('About')			
-      else
-        a(href="/weblog/about")= __('About')
-    li
       if is_archive()
         a.current(href="/weblog/archives")= __('Archive')
       else
         a(href="/weblog/archives")= __('Archive')
     li
-      if is_current('links')
-        a.current(href="/weblog/links")= __('Links')					
-      else
-        a(href="/weblog/links")= __('Links')		
+        a(href="https://coletree.com/weblog/categories/%E6%A3%AE%E6%9E%97%E5%B9%BF%E6%92%AD/")= __('电台')
   .information
     .back_btn
       li
