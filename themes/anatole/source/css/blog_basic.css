@@ -245,7 +245,8 @@ html {
 
                     img {
                       max-width: 100%;
-                      height: auto; }
+                      height: auto;
+                      border-radius: 8px; }
 
                       p, ul, ol, dl {
                         margin: 1em 0; }
