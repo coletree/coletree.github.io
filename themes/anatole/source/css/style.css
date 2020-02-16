@@ -5,9 +5,9 @@ html {
 }
 
 body {
-  color: rgba(0, 0, 0, 0.8);
+  color: #333333
   font-family: 'PingHei', 'PingFang SC', Helvetica Neue, 'Work Sans', 'Hiragino Sans GB', 'Microsoft YaHei', SimSun, sans-serif;
-  font-size: 16px;
+  font-size: 15px;
   width: 100%;
   margin: 0 auto 30px auto;
   background-color: #fff;
@@ -16,7 +16,7 @@ body {
 p {
   line-height: 1.9em;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 15px;
 }
 
 a {
@@ -254,14 +254,14 @@ a:hover, a:active {
   letter-spacing: 1px;
   line-height: 1;
   font-weight: 600;
-  color: #464646;
-  font-size: 22px;
-  margin: 0;
+  color: #111111;
+  font-size: 28px;
+  margin: 0 0 40px;
 }
 .post .post-title a {
   text-decoration: none;
   letter-spacing: 1px;
-  color: #111111;
+  color: rgb(39, 136, 6);
 }
 .post .post-title a:hover {
   text-decoration: underline;
