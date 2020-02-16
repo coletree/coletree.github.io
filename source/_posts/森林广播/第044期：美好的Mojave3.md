@@ -1,5 +1,5 @@
 ---
-title: "美好的Mojave3"
+title: "VOL.044 美好的Mojave3"
 tags:
   - mojave3
   - 安静

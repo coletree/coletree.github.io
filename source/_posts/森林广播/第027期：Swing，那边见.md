@@ -1,5 +1,5 @@
 ---
-title: "Swing，那边见"
+title: "VOL.027 Swing，那边见"
 tags:
   - swing
   - 告别

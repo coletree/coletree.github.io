@@ -2,20 +2,24 @@
   .nav
     li
       if is_home()
-        a.current(href="/weblog")= __('Home')					
+        a.current(href="/weblog")= __('日志')					
       else
-        a(href="/weblog")= __('Home')	
-    li
-      if is_archive()
-        a.current(href="/weblog/archives")= __('Archive')
-      else
-        a(href="/weblog/archives")= __('Archive')
+        a(href="/weblog")= __('日志')	
     li
         a(href="https://coletree.com/weblog/categories/%E6%A3%AE%E6%9E%97%E5%B9%BF%E6%92%AD/")= __('电台')
     li
-        a(href="https://www.behance.net/coletree/")= __('项目')
+      if is_archive()
+        a.current(href="/weblog/archives")= __('存档')
+      else
+        a(href="/weblog/archives")= __('存档')
     li
-        a(href="mailto:coletree@gmail.com")= __('联系')
+        a(href="/weblog/trip")= __('旅途')
+    li
+        a(href="/weblog/resource")= __('资源')
+    li
+        a(href="https://www.behance.net/coletree/")= __('作品')
+    li
+        a(href="/weblog/about")= __('关于')
   .information
     .back_btn
       li

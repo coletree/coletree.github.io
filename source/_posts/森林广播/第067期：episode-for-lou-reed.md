@@ -1,5 +1,5 @@
 ---
-title: "Episode for Lou Reed"
+title: "VOL.067 Episode for Lou Reed"
 tags:
   - lou reed
   - 地下丝绒
