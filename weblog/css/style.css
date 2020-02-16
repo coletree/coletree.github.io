@@ -189,7 +189,6 @@ a:hover, a:active {
 .sidebar .logo-title {
   text-align: center;
   padding-top: 100px;
-  padding-bottom: 100px;
 }
 .sidebar .logo-title .description {
   font-size: 14px;
@@ -217,6 +216,7 @@ a:hover, a:active {
   padding: 0;
   font-size: 14px;
   text-align: center;
+  margin-bottom: 80px;
 }
 .sidebar .social-links i {
   margin-right: 3px;
