@@ -9,7 +9,7 @@
     
     <url>
         <loc>https://coletree.com/weblog/about/</loc>
-        <lastmod>2020-02-16T17:07:32.608Z</lastmod>
+        <lastmod>2020-02-17T05:40:28.263Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -17,13 +17,6 @@
     <url>
         <loc>https://coletree.com/weblog/trip/</loc>
         <lastmod>2020-02-16T16:17:06.284Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://coletree.com/weblog/resource/</loc>
-        <lastmod>2020-02-16T16:16:56.895Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
