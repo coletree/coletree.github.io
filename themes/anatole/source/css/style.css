@@ -390,6 +390,7 @@ a:hover, a:active {
 }
 
 .footer {
+  color: #A6A6A6;
   clear: both;
   text-align: center;
   font-size: 10px;
@@ -591,8 +592,8 @@ a.btn {
 }
 
 [role="navigation"] {
-  padding: 0.5em 1.25em;
-  line-height: 1.666em;
+  padding: 0.6em 1.8em;
+  line-height: 1.8em;
 }
 
 [role="tags"] {
