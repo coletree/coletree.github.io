@@ -17,4 +17,5 @@ date: 2019-09-10 10:31:27
 
 我们在互联网行业具有超过 10 年的产品设计工作经验，在UI、UX、产品设计方面均有丰富经验。目前也寻求远程工作，或自由职业的可能。希望有合作意向的朋友可以联系我们。如果你也擅长某些东西，但个性比较安静或内敛的人。不妨一起聊聊可以做些什么。有需要的朋友可以通过以下方式联系我们：
 
-* Email：coletree@gmail.com 
+* [Email：coletree@gmail.com](mailto:Email：coletree@gmail.com)
+* [项目作品：Behance](https://www.behance.net/coletree/)
