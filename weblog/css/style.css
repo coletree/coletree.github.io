@@ -14,9 +14,9 @@ body {
 }
 
 p {
-  line-height: 1.9em;
+  line-height: 2em;
   font-weight: 400;
-  font-size: 15px;
+  font-size: 16px;
   color: #555555;
 }
 
@@ -192,7 +192,9 @@ a:hover, a:active {
 }
 .sidebar .logo-title .description {
   font-size: 14px;
-  color: #565654;
+}
+.sidebar .logo-title .description p{
+  color: #999;
 }
 .sidebar .logo-title .logo {
   margin: 0 auto;
@@ -214,12 +216,12 @@ a:hover, a:active {
 .sidebar .social-links {
   list-style: none;
   padding: 0;
-  font-size: 14px;
+  font-size: 16px;
   text-align: center;
   margin-bottom: 80px;
 }
 .sidebar .social-links i {
-  margin-right: 3px;
+  margin-right: 6px;
 }
 .sidebar .social-links li {
   display: inline;
