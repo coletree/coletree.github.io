@@ -265,6 +265,11 @@ html {
                             a img {
                               border: none; }
 
+                            audio {
+                              width: 100%;
+                              margin-bottom: 30px;
+                            }
+
 dl dt {
   float: left;
   width: 180px;
