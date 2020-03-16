@@ -1,6 +1,8 @@
 ---
 title: "Walter Martin and Paloma Munoz"
 date: 2008-04-12 07:22:35
+categories:
+  - 生活随想
 tags:
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: "长假之通关WALLE"
 date: 2008-10-06 22:35:36
+categories:
+  - 生活随想
 tags:
 ---
 

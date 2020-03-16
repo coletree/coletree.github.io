@@ -1,6 +1,8 @@
 ---
 title: "Logic第一课小记"
 date: 2012-02-27 11:53:08
+categories:
+  - 生活随想
 tags:
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: "去曼谷不能不去Maeklong"
 date: 2010-03-10 12:48:58
+categories:
+  - 生活随想
 tags:
 ---
 

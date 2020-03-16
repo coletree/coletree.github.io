@@ -1,6 +1,8 @@
 ---
 title: "coletree.cn域名即将停用"
 date: 2009-03-03 12:01:11
+categories:
+  - 生活随想
 tags:
 ---
 

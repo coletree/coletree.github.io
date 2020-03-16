@@ -1,6 +1,8 @@
 ---
 title: 如何高效地使用 Google 进行搜索
 date: 2019-09-27 11:23:56
+categories:
+  - 思维练习
 tags:
 ---
 

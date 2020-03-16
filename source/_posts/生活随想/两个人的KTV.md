@@ -1,6 +1,8 @@
 ---
 title: "两个人的KTV"
 date: 2011-08-11 23:52:38
+categories:
+  - 生活随想
 tags:
 ---
 

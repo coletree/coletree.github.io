@@ -1,6 +1,8 @@
 ---
 title: "我以为cole就是油菜"
 date: 2010-03-03 22:03:45
+categories:
+  - 生活随想
 tags:
 ---
 

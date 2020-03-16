@@ -1,6 +1,8 @@
 ---
 title: "设计师可以看的NETFLIX资源"
 date: 2019-10-22 11:33:39
+categories:
+  - 思维练习
 tags:
 ---
 

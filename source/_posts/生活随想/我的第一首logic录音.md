@@ -1,6 +1,8 @@
 ---
 title: "我的第一首logic录音"
 date: 2012-03-10 00:03:49
+categories:
+  - 生活随想
 tags:
 ---
 

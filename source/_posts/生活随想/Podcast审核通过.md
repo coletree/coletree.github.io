@@ -1,6 +1,8 @@
 ---
 title: "Podcast审核通过"
 date: 2010-04-15 20:59:45
+categories:
+  - 生活随想
 tags:
 ---
 

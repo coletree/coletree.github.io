@@ -1,6 +1,8 @@
 ---
 title: "Welcome to Paradise"
 date: 2008-04-12 07:44:26
+categories:
+  - 生活随想
 tags:
 ---
 

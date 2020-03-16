@@ -1,6 +1,8 @@
 ---
 title: "07-08 Premier League Champions!"
 date: 2008-05-11 20:41:42
+categories:
+  - 生活随想
 tags:
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: "LAVA BAR - chocolate that mends broken heart"
 date: 2008-04-12 20:25:17
+categories:
+  - 生活随想
 tags:
 ---
 

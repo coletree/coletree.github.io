@@ -1,6 +1,8 @@
 ---
 title: "High Mover"
 date: 2013-03-15 17:27:35
+categories:
+  - 生活随想
 tags:
 ---
 
